@@ -9,7 +9,7 @@ spec:
   #kubectl get storageclass
   storageClassName: hostpath
   capacity:
-    storage: 1Gi
+    storage: 5Gi
   accessModes:
     - ReadWriteOnce
   hostPath:
