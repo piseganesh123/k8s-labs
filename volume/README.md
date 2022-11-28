@@ -1,5 +1,6 @@
 Create volume of type Hostpath
 
+Clone repository, apply volume changes
 
 
 # Volume - Validation is not completed yet
