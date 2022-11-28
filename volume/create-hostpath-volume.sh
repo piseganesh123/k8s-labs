@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolume
 metadata:
-  name: test-volume
+  name: volume-for-mysql
   labels:
     type: local
 spec:
